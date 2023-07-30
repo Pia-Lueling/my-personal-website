@@ -9,10 +9,14 @@ body {
 nav {
   text-align: right;
   word-spacing: 1em;
+  background-color: #f5ede6;
+  height: 40px;
+  top: 0;
+  width: 100%;
 }
 
 a {
-  color: black;
+  color: #b99879;
 }
 
 a:hover {
