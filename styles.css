@@ -39,3 +39,16 @@ p {
 .picture-figcaption {
   text-align: center;
 }
+.left {
+  text-align: left;
+  background-color: #f8f4eb;
+  padding: 30px;
+  margin: 10px;
+}
+
+.right {
+  text-align: right;
+  background-color: #f1e8d7;
+  padding: 30px;
+  margin: 10px;
+}
