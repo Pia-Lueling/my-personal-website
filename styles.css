@@ -14,3 +14,20 @@ nav {
 a {
   color: black;
 }
+
+a:hover {
+  color: #ffa54f;
+}
+
+h1 {
+  color: #ffa54f;
+  text-align: center;
+  font-size: 50px;
+}
+
+.quote {
+  text-align: center;
+  font-size: 23px;
+  font-style: italic;
+  color: C0FF3E;
+}
