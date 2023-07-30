@@ -31,3 +31,11 @@ h1 {
   font-style: italic;
   color: C0FF3E;
 }
+
+p {
+  font-size: 18px;
+}
+
+.picture-figcaption {
+  text-align: center;
+}
