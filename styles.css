@@ -36,17 +36,17 @@ p {
   font-size: 18px;
 }
 
-.picture-figcaption {
+.picture {
   text-align: center;
 }
-.left {
+.experience {
   text-align: left;
   background-color: #f8f4eb;
   padding: 30px;
   margin: 10px;
 }
 
-.right {
+.details {
   text-align: right;
   background-color: #f1e8d7;
   padding: 30px;
