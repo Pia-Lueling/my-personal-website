@@ -1,0 +1,64 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #1c1c1c;
+}
+
+header {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+
+h1 {
+  color: #f1e8d7;
+  text-align: center;
+  font-size: 50px;
+}
+
+.quote {
+  text-align: center;
+  font-size: 23px;
+  font-style: italic;
+  color: #f1e8d7;
+}
+
+p {
+  font-size: 18px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.picture {
+  text-align: center;
+}
+.experience {
+  text-align: left;
+  background-color: #f8f4eb;
+  padding: 30px;
+  margin: 10px;
+}
+
+.details {
+  text-align: right;
+  background-color: #f1e8d7;
+  padding: 30px;
+  margin: 10px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 2%;
+}
+
+.contact {
+  font-size: 13px;
+}
+
+.copyright {
+  text-align: center;
+  font-size: 10px;
+  color: #f1e8d7;
+}

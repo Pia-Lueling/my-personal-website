@@ -1,0 +1,21 @@
+nav {
+  background-color: #f8f4eb;
+  height: 40px;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+a {
+  color: #1c1c1c;
+}
+
+a:hover {
+  color: #ffa54f;
+}
