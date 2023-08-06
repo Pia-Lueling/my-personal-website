@@ -1,5 +1,6 @@
 body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #c8d9d5;
 }
 
 header {
@@ -9,7 +10,7 @@ header {
 }
 
 h1 {
-  color: #ff8400;
+  color: white;
   text-align: center;
   font-size: 50px;
 }
@@ -18,7 +19,7 @@ h1 {
   text-align: center;
   font-size: 23px;
   font-style: italic;
-  color: #fa842b;
+  color: white;
 }
 
 p {
